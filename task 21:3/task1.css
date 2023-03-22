@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    width:400px
+    
+}
+.class{ background-color: #040405 ;
+    opacity: 50%;
+    color:white;
+    font-size: 20px;
+    position:absolute;
+    top: 265px;
+    left:0px;}
+.class p:first-child{
+position:relative
+}
+img{width: 400px;
+height:300px}

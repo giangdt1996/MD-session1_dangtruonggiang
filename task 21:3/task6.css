@@ -1,0 +1,28 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+
+}
+
+.all{background-image: url(./308141_s.jpeg);
+width: 640px;
+height:400px;}
+.blur{background-color: rgb(165, 155, 155);
+    width:640px;
+height:100px;
+position:absolute;
+top:180px;
+text-align: center;
+padding-top:30px;
+filter:blur(30px);
+
+
+}
+.text{color:white;
+    border:1px solid white;
+position:absolute;
+top:180px;
+text-align: center;
+padding-top:30px;}
+.all .text{position: relative;}
